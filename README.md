@@ -1,16 +1,55 @@
-# React + Vite
+# 💎 DUKESYSTEM // NÚCLEO_DE_INTELIGENCIA_V4.2
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### "No vendemos metros cuadrados, vendemos velocidad de retorno."
 
-Currently, two official plugins are available:
+DUKESYSTEM es un ecosistema de inteligencia artificial de grado institucional diseñado para la élite del sector inmobiliario. Integra motores de análisis cuántico y protocolos de cierre de alta conversión para transformar la toma de decisiones patrimoniales.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🛠️ Modulos Principales
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🧠 PROTOCOLOS MAESTROS
+Análisis de escenarios en tiempo real utilizando un consejo virtual de 3 IAs (Gemini, Claude, GPT-4):
+- **PROTOCOL // CLOSING**: Aceleración de contratos mediante ingeniería de urgencia.
+- **RETELL AI // ANALYSIS**: Detección de patrones de voz y neutralización de objeciones live.
+- **CRM // RECOVERY**: Recuperación forense de prospectos en ghosting.
+- **RETELL AI // SCRIPTING**: Generación de guiones dinámicos basados en análisis emocional.
+- **AIRDNA // SMART_ROI**: Inteligencia de rentabilidad neta y plusvalía proyectada.
 
-## Expanding the ESLint configuration
+### 📊 AUDITORÍA PATRIMONIAL (CRM)
+Visualización estratégica de activos y monitoreo de talento en red global:
+- Pipeline de alta precisión ($42.8M+ Proyectado).
+- Sincronización nativa con Salesforce, HubSpot y Pipedrive.
+- Mapas de calor de intención de compra y predicción de cierres.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ⚡ Atajos de Eficiencia (Teclado)
+Navegación ultra-rápida diseñada para presentaciones de alto nivel:
+- **`1`-`5`**: Cambio instantáneo entre protocolos tácticos.
+- **`i`**: Acceso al Núcleo de Inteligencia.
+- **`c`**: Acceso a la Auditoría de Red (CRM).
+
+---
+
+## 🚀 Tecnologías
+- **Core**: React + Vite (HMR Ultra-fast)
+- **Styling**: Tailwind CSS + Framer Motion (Glassmorphism & Micro-animations)
+- **Intelligence**: Multi-LLM Orchestration (OpenAI, Anthropic, Google DeepMind)
+- **Voice Analysis**: Retell AI Integration
+
+---
+
+## 📦 Instalación
+
+```bash
+# Sincronizar dependencias
+npm install
+
+# Iniciar Núcleo
+npm run dev
+```
+
+---
+
+**© 2026 DUKESYSTEM // OPERACIÓN_ESTRATÉGICA_ACTIVA**
